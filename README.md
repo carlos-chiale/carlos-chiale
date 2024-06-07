@@ -8,13 +8,12 @@
 
 #### **About me**  
   
+- ⚙️  For backendend: Java, Node  
 
-- 🖥️  For front-end: React  
+- 🖥️  For frontend: React  
   
-
 - 📱  For mobile: React Native  
   
-
 - 🌎   Experience with geographic information systems.  
   
 
