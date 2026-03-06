@@ -1,136 +1,84 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?duration=2500&lines=Hello!+;Welcome+to+my+Github+profile!+" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Carlos Andrés Chiale, a full-stack developer 👨‍💻  from Uruguay 🇺🇾</div>  
-  
-
-#### **About me**  
-  
-- ⚙️  For backendend: Java, Node  
-
-- 🖥️  For frontend: React  
-  
-- 📱  For mobile: React Native  
-  
-- 🌎   Experience with geographic information systems.  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="/img/react-native.png" alt="React Native" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
+<img src="https://readme-typing-svg.herokuapp.com?duration=3000&size=24&center=true&vCenter=true&lines=Senior+Tech+Lead;Software+Architect;PMP%C2%AE+Certified;Mission-Critical+Systems+Expert" align="center" style="width: 100%" />
 </div>
 
-### Database  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-</div>
+# <div align="center">Carlos Andrés Chiale (Carloncho) 👨‍💻</div>
+<div align="center">Senior Tech Lead & Solutions Architect from Uruguay 🇺🇾</div>
 
-</td><td valign="top" width="33%">
+---
 
+### 🚀 Professional Profile
+- 🏗️ **Architecting** high-scale, mission-critical systems with 15+ years of experience.
+- 💳 **Specialized** in Fintech, payment processing, and national-level emergency infrastructures (99.9% uptime).
+- 🎓 **Assistant Professor** at the Faculty of Engineering (UdelaR) & **PMP® Certified** Project Leader.
+- 🌍 **Spatial Data Expert** with deep experience in GIS and geographic data engineering.
+- 🛠️ **Homelab Enthusiast**: Self-hosting complex infrastructures (Proxmox, Docker, Home Assistant).
 
+---
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
-</div>  
+## 🛠 My Expert Stack
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>核心 | Core Backend & Arch</h3>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgis&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>☁️ Cloud & DevOps</h3>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🎨 Frontend & Mobile</h3>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>🛰️ Geospatial Tools</h3>
+      <img src="https://img.shields.io/badge/GeoServer-26689A?style=for-the-badge&logo=geoserver&logoColor=white" />
+      <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
+---
 
-### Game Dev  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
-<img style="margin: 10px" src="/img/Unreal_Engine_Logo.svg" alt="Unreal engine" height="50" />  
-</div>
+## 🏆 Leadership & Community
+- **Secretary of the Board** @ [Pan-American Flying Disc Federation](pafdf.sport) (PAFDF).
+- **Founder** of the [Ultimate Frisbee Uruguay](ultimatefrisbee.uy) Association.
+- Project Manager and Technical Consultant for mission-critical national security systems.
 
+---
 
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-</div>  
-
-
-
-### Other tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
+## 📫 Connect with me
 <div align="center">
+<a href="https://linkedin.com/in/carlos-andrés-chiale" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://github.com/carlos-chiale" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://twitter.com/carlonchoboy" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/carlos-andrés-chiale" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/carlonchoboy" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/carlonchoboy" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/c/CarlosAndrésChiale" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-<a href="https://carlonchoboy.itch.io/" target="_blank">
-<img src=https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white alt=itch.io style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+</div>
 
-<br/>  
+<br/>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=carlonchoboy&cover_image=true&theme=default&bar_color=2431f0" /></div>  
-
-<br/>  
+<br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=carlonchoboy&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<img src="https://komarev.com/ghpvc/?username=carlonchoboy&color=blue&style=flat-square" />
+</div>
